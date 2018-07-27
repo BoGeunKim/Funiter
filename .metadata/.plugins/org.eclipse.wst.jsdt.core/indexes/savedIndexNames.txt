@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Funiter\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1541427531.index
+1327945812.index
+2395659018.index
+534122883.index
+2814042672.index
+1153688668.index
+1463540188.index
